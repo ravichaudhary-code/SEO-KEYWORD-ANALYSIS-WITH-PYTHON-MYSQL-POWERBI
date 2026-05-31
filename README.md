@@ -149,7 +149,8 @@ The Elbow Method was used to determine the optimal number of clusters before app
 
 ### Main Dashboard
 
-![Dashboard]
+<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/a3a4adda-2aeb-455b-8bd3-959989e3fee0" />
+
 
 ---
 
@@ -166,10 +167,7 @@ The Elbow Method was used to determine the optimal number of clusters before app
 ## 🔗 Connect With Me
 
 ### LinkedIn
-[Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
-
-### GitHub
-[Your GitHub Profile](https://github.com/your-github-username)
+[Your LinkedIn Profile]https://www.linkedin.com/feed/
 
 ---
 ## 👨‍💻 Author
