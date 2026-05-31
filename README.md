@@ -117,12 +117,33 @@ Developed an interactive Power BI dashboard featuring:
 
 ---
 
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/a3a4adda-2aeb-455b-8bd3-959989e3fee0" />
+
+
 ## 🤖 Machine Learning
 
 Applied K-Means Clustering using:
 
 - Search Volume
 - Traffic
+
+### Elbow Method
+
+The Elbow Method was used to determine the optimal number of clusters before applying K-Means clustering.
+
+<img width="837" height="383" alt="image" src="https://github.com/user-attachments/assets/f7f536c0-4fce-4d02-89fa-a7179fc40e78" />
+
+
+### K-Means Clustering
+
+K-Means clustering was applied on Search Volume and Traffic to identify keyword behavior patterns and segment keywords into meaningful groups.
+
+<img width="865" height="416" alt="image" src="https://github.com/user-attachments/assets/e33343e6-37aa-4db8-9ac4-a07d0249944e" />
+
 
 ### Why These Variables?
 
@@ -143,15 +164,6 @@ The Elbow Method was used to determine the optimal number of clusters before app
 - Cyber Security keywords have higher average CPC values.
 - Several categories demonstrate moderate-to-high SEO competition.
 - Clustering revealed distinct keyword traffic behavior patterns.
-
----
-
-## 📸 Dashboard Preview
-
-### Main Dashboard
-
-<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/a3a4adda-2aeb-455b-8bd3-959989e3fee0" />
-
 
 ---
 
