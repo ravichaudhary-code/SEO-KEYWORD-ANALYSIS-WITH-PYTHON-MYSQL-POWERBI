@@ -85,6 +85,7 @@ Created a relational database model in MySQL consisting of:
 4. lookup_metrics
 
 Relationships were created to support structured analytical reporting.
+<img width="760" height="396" alt="image" src="https://github.com/user-attachments/assets/9a6525a8-99c6-4f56-afd9-b2009ea4bf16" />
 
 ---
 
